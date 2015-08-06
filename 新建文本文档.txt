@@ -1,0 +1,11 @@
+在GitHub上创建之后:
+
+建立一个文件夹 右键 Git Bash
+git init
+添加文件/修改文件
+git add . 或 git add -a 或者 git add 文件名
+git commit -m ' Your message'
+git remote add origin http:// （仅第一次使用）
+git push -u origin master
+
+每次修改前： git pull
